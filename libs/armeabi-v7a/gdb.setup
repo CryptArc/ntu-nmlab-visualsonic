@@ -1,0 +1,3 @@
+set solib-search-path /cygdrive/c/Users/lamb/eclipse/qcar-sdk-0-10-0/samples/FrameMarkers/obj/local/armeabi-v7a
+directory /cygdrive/c/Users/lamb/eclipse/android-ndk-r4b/build/platforms/android-5/arch-arm/usr/include
+directory /cygdrive/c/Users/lamb/eclipse/qcar-sdk-0-10-0/samples/FrameMarkers/jni
